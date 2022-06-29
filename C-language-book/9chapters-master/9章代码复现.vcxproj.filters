@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="9.1设计购书系统.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.2结构变量占用内存大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.3结构变量初始化.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.4结构体变量的赋值与使用示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.5结构变量作为函数参数进行数据传递示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.6分析下面程序的运行结果.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.7结构数组的使用示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.8结构数组作为函数参数示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.9结构指针的使用示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.10指向结构数组的指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.11结构指针作函数参数示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.12结构数组元素的地址作为实参进行传递.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.13计算n个数的平均值，数字由用户在运行时输入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.14释放动态内存示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.15接收从键盘输入的一行字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.16将每次产生的新结点作为头结点插入到链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.23三门选修课程.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.24从键盘输入一个整数，显示与该整数对应的枚举常量所表示的水果英文名称.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.25从键盘输入一个整数，比较它和某个枚举成员的大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.26求水果拼盘的个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.27类型定义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

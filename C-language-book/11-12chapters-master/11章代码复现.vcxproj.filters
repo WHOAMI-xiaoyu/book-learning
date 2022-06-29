@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="11.1宏定义程序示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2宏定义在输出格式中的应用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.3运行下列程序，如输入值为3时，希望结果为4.分析结果错的原因.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.4分析下列程序的运行结果.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.5分析下面程序的执行结果.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.6利用宏定义求出两个数中的最小数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.7文件包含程序示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.8采用条件编译，使给定的字符串按小写或者大写字母输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.1从键盘输入一个短整数，判断其最高位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.2将一个短整型数的低8位进行反转操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.3测试计算机系统的c编辑器是逻辑右移还是算数右移.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exll_72.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
