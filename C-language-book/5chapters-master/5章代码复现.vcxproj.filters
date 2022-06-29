@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="5.1计算人口增长.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2计算有规律式子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3输入一个正整数n,求他的前n项和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.4计算n的阶层.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5输出公式的前n项和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6输入10个数，输出最大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.7输出所有的水仙花数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.8输入一个正整数，判断是否为完数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.9统计由键盘输入的字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.10任意输入一行小写字母，转换成大写字母输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.11由键盘输入3个数字，将其组合成一个整型数并输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.12输入一个数，判断是否为素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.13使用while循环实现1-n的累加和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.14使用while语句实现1-n的累阶乘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.15使用while循环实现对输入内容类型的分类.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.16使用do-while循环实现1-100的累加.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.17求两个自然数的最大公约数和最小公倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.18输入一个整数，统计该数的位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.19输出除3余1除5余2的整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.20输入一个正整数，判断是否为素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.21输入一批成绩，统计平均分，统计及格和不及格个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.22把1-100之间能被7整除的数，以每行5个的形式在屏幕上输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.23分析下面程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.24使用goto语句计算1-100累加和的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.25求内涵阶层.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.26输出乘法口诀表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.27求100之内的素数，要求每行输出10个.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.28输出10-20之间的正整数分解质因数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.29猴子吃桃问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.30求sin(x)的近似值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.32板砖问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.34输出金字塔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.35猜数字游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.36编写程序输出100-1000内的回文素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.37在所以三位整数中找出平方数中有连续的三位数字是该数本身的数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
