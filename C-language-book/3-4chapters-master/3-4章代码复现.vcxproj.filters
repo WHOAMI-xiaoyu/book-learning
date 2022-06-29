@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3.1求华氏温度对的摄氏温度.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2键盘输入小写字母,将其转换为大写字母.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3按指定格式输出整型数据.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4整型数据的输出示例子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6带有修饰符的整形数据的输入输出示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8字符型数据的输入输出示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7实型数据的输入输出示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9由键盘输入一个字符，将其输出到屏幕.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.10输入一个球的半径，根据公式计算并求出体积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11求一元二次方程组的跟.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1输入三角形的三条边，判断是否构成三角形，若能则计算并输出三角形面积，否则给出错误提示.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.2编写程序，输入x的值，按以下分段函数计算并输出y的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.3关系运算示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.5逻辑运算示例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6用条件表达式求两个数的较大数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7使用双分支语句求两个数中较大的数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8编写一个程序，根据键盘输入的x的值，计算y的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.9编写一个程序输入一个实数，输出其绝对值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.10有一个分段函数，根据x的值，求y的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.11输入3个实数，要求按从小到大的顺序输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.12输入任意3个整数，输出其最大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.13编写程序，输入一个x的值，按以下函数计算并输出y的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.14编写程序，输入x的值，按以下分段函数计算并输出y的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.15转换大小写.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.16编写程序，输入一个月份值，输出该月份是第几季度.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.17根据键盘输入的年、月，输出该年、该月的天数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.18使用switch语句编写例子4.14.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
